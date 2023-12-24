@@ -34,14 +34,6 @@ El proyecto utiliza las siguientes librerías de Python:
 
 - **Time (sleep)**: Librería estándar de Python utilizada para pausar la ejecución del script. [Documentación](https://docs.python.org/3/library/time.html)
 
-- **Webdriver**: Controlador de navegador utilizado por Selenium para interactuar con Firefox. Puedes descargar Geckodriver [aquí](https://github.com/mozilla/geckodriver/releases).
-
-Para instalar las librerías necesarias, puedes utilizar el siguiente comando:
-
-```bash
-pip install -r requirements.txt
-
-
 ## Estructura de Datos
 
 El archivo CSV resultante de la extracción y limpieza de los datos tiene las siguientes columnas:
