@@ -196,7 +196,7 @@ def limpiar_idiazabal(lista_datos):
     dataframe = pd.DataFrame(datos_limpios)
 
     # Dataframe a csv
-    dataframe.to_csv('idiazabal.csv', header=['nombre', 'categoria', 'direccion', 'localidad', 'provincia', 'ccaa', 'telefono', 'mail', 'web', 'productos', 'sello_de_calidad', 'url_imagen', 'descripcion', 'facebook', 'twitter', 'google', 'instagram'])
+    dataframe.to_csv('data/idiazabal.csv', header=['nombre', 'categoria', 'direccion', 'localidad', 'provincia', 'ccaa', 'telefono', 'mail', 'web', 'productos', 'sello_de_calidad', 'url_imagen', 'descripcion', 'facebook', 'twitter', 'google', 'instagram'])
 
     return dataframe
 # %%
