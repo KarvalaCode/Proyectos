@@ -56,12 +56,9 @@ El archivo CSV resultante de la extracción y limpieza de los datos tiene las si
 - `google`: Enlace a la página de Google Business.
 - `instagram`: Enlace al perfil de Instagram.
 
-
-
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+Este proyecto está bajo la licencia Creative Commons Attribution 4.0 International License.
 
----
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
-Espero que este README te sea útil. Asegúrate de personalizarlo según las características específicas de tu proyecto.
