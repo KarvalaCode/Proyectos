@@ -60,5 +60,6 @@ El archivo CSV resultante de la extracción y limpieza de los datos tiene las si
 
 Este proyecto está bajo la licencia Creative Commons Attribution 4.0 International License.
 
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+![cc-by-image]https://i.creativecommons.org/l/by/4.0/88x31.png
+
 
