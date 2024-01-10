@@ -1,7 +1,7 @@
 
 # Proyecto Base de Datos de Productores Locales
 
-Este proyecto tiene como objetivo la creación de una base de datos de productores locales. Actualemente, unicamente incluye la extracción de datos de los productores de queso Idiazabal. Para ello, se ha desarrollado un script en Python que realiza la extracción de datos desde el sitio web [quesoidiazabal.com](https://www.quesoidiazabal.eus/productores) utilizando Selenium.
+Este proyecto tiene como objetivo la creación de una base de datos de productores locales. Actualemente, unicamente incluye la extracción de datos de los productores de queso Idiazabal y txakolí de Álava. Para ello, se ha desarrollado un script en Python que realiza la extracción de datos desde el sitio web [quesoidiazabal.com](https://www.quesoidiazabal.eus/productores) utilizando Selenium y la extracción de datos de [txakolidealava.eus](https://txakolidealava.eus/bodegas/).
 
 ## Contenido del Repositorio
 
