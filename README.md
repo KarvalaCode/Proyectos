@@ -15,12 +15,12 @@ Esta carpeta sirve como un contenedor para mis proyectos personales. Cada proyec
     - Tecnologías: `Python`, `SQL`, `Pandas`, `Selenium`
     - [README](https://github.com/KarvalaCode/Proyectos/blob/main/productos_locales/README_productos_locales.md)
 
-2. [Proyecto Análisis de Aplicaciones Android](https://github.com/KarvalaCode/Proyectos/tree/main/apps_android)
-    - Descripción: Este proyecto tiene como objetivo el análisis de datos sobre aplicaciones Android (datos hasta 2018). Los datos se han cargado en un DataFrame de Pandas para limpiar y transformar y posteriormente subidos a Power BI para su análisis y presentación.
-    - Tecnologías: `Python`, `Pandas`, `Power BI`
-    - [README](https://github.com/KarvalaCode/Proyectos/blob/main/apps_android/README.md)
-
-3. [Proyecto de Extracción de Información de Facturas en PDF](https://github.com/KarvalaCode/Proyectos/tree/main/extraccion_facturas)
+2. [Proyecto de Extracción de Información de Facturas en PDF](https://github.com/KarvalaCode/Proyectos/tree/main/extraccion_facturas)
     - Descripción: Este proyecto tiene como objetivo leer y extraer información relevante de archivos PDF de facturas y guardarla en archivos JSON.
     - Tecnologías: `Python`, `PyMuPDF`, `Pendulum`, `Regex`, `pgeocode`, `JSON`
     - [README](https://github.com/KarvalaCode/Proyectos/tree/main/LuzPDF)
+
+3. [Proyecto Análisis de Aplicaciones Android](https://github.com/KarvalaCode/Proyectos/tree/main/apps_android)
+    - Descripción: Este proyecto tiene como objetivo el análisis de datos sobre aplicaciones Android (datos hasta 2018). Los datos se han cargado en un DataFrame de Pandas para limpiar y transformar y posteriormente subidos a Power BI para su análisis y presentación.
+    - Tecnologías: `Python`, `Pandas`, `Power BI`
+    - [README](https://github.com/KarvalaCode/Proyectos/blob/main/apps_android/README.md)    
